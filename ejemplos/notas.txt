@@ -1,0 +1,18 @@
+
+/*
+// ver la forma de dependencia o sermantic version
+x,y,z la x seria la mayor se rompe la compatibilidad hacia atras
+x,y,z la y seria la menor se anade nuevas funciones 
+x,y,z la z seria patch es cuando arreglan bugs 
+
+*/
+
+como eliminar una independencia
+nmp uninstall (nombre de la dependencia)
+
+debemos entender que existen dependencias de desarrollo y otras de preducion
+
+las desarrollo son las que va a formatiar tu codigo, y ver si tienes error en el
+
+puesdes buscar unas dependencia para esto 
+npm standard -D -> significa desarrollo 
