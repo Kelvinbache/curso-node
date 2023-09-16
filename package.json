@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/Kelvinbache/curso-node#readme",
   "dependencies": {
+    "nodemon": "^3.0.1",
     "picocolors": "1.0.0"
   },
   "devDependencies": {
